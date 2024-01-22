@@ -1,0 +1,296 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+	<ItemGroup>
+		<None Update="appsettings.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\bootstrap4\bootstrap.min.css" />
+    <Content Remove="wwwroot\css\bootstrap4\bootstrap.min.js" />
+    <Content Remove="wwwroot\css\bootstrap4\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\css\bootstrap4\popper.js" />
+    <Content Remove="wwwroot\plugins\colorbox\colorbox.css" />
+    <Content Remove="wwwroot\plugins\colorbox\images\border.png" />
+    <Content Remove="wwwroot\plugins\colorbox\images\controls.png" />
+    <Content Remove="wwwroot\plugins\colorbox\images\loading.gif" />
+    <Content Remove="wwwroot\plugins\colorbox\images\loading_background.png" />
+    <Content Remove="wwwroot\plugins\colorbox\images\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\colorbox\images\overlay.png" />
+    <Content Remove="wwwroot\plugins\colorbox\jquery.colorbox-min.js" />
+    <Content Remove="wwwroot\plugins\colorbox\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\easing\easing.js" />
+    <Content Remove="wwwroot\plugins\easing\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\css\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\fonts\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\animated.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\core.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\icons.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\larger.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\list.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\mixins.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\path.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\stacked.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\less\variables.less" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Remove="wwwroot\plugins\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Remove="wwwroot\plugins\greensock\animation.gsap.min.js" />
+    <Content Remove="wwwroot\plugins\greensock\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\greensock\ScrollToPlugin.min.js" />
+    <Content Remove="wwwroot\plugins\greensock\TimelineMax.min.js" />
+    <Content Remove="wwwroot\plugins\greensock\TweenMax.min.js" />
+    <Content Remove="wwwroot\plugins\masonry\masonry.js" />
+    <Content Remove="wwwroot\plugins\masonry\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\ajax-loader.gif" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\animate.css" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\owl.carousel.css" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\owl.carousel.js" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\owl.theme.default.css" />
+    <Content Remove="wwwroot\plugins\OwlCarousel2-2.2.1\owl.video.play.png" />
+    <Content Remove="wwwroot\plugins\parallax-js-master\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\parallax-js-master\parallax.min.js" />
+    <Content Remove="wwwroot\plugins\scrollmagic\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\scrollmagic\ScrollMagic.min.js" />
+    <Content Remove="wwwroot\plugins\video-js\OneNote Table Of Contents.onetoc2" />
+    <Content Remove="wwwroot\plugins\video-js\video-js.css" />
+    <Content Remove="wwwroot\plugins\video-js\video.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\about.css" />
+    <None Include="wwwroot\css\about_responsive.css" />
+    <None Include="wwwroot\css\blog.css" />
+    <None Include="wwwroot\css\blog_responsive.css" />
+    <None Include="wwwroot\css\blog_single.css" />
+    <None Include="wwwroot\css\blog_single_responsive.css" />
+    <None Include="wwwroot\css\bootstrap4\bootstrap.min.css" />
+    <None Include="wwwroot\css\bootstrap4\bootstrap.min.js" />
+    <None Include="wwwroot\css\bootstrap4\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\css\bootstrap4\popper.js" />
+    <None Include="wwwroot\css\contact.css" />
+    <None Include="wwwroot\css\contact_responsive.css" />
+    <None Include="wwwroot\css\course.css" />
+    <None Include="wwwroot\css\course_responsive.css" />
+    <None Include="wwwroot\js\blog_single.js" />
+    <None Include="wwwroot\js\course.js" />
+    <None Include="wwwroot\css\courses.css" />
+    <None Include="wwwroot\css\courses_responsive.css" />
+    <None Include="wwwroot\css\main_styles.css" />
+    <None Include="wwwroot\css\responsive.css" />
+    <None Include="wwwroot\images\about_1.jpg" />
+    <None Include="wwwroot\images\about_2.jpg" />
+    <None Include="wwwroot\images\about_3.jpg" />
+    <None Include="wwwroot\images\banner_1.jpg" />
+    <None Include="wwwroot\images\blog_1.jpg" />
+    <None Include="wwwroot\images\blog_2.jpg" />
+    <None Include="wwwroot\images\blog_3.jpg" />
+    <None Include="wwwroot\images\blog_4.jpg" />
+    <None Include="wwwroot\images\blog_5.jpg" />
+    <None Include="wwwroot\images\blog_images_1.jpg" />
+    <None Include="wwwroot\images\blog_images_2.jpg" />
+    <None Include="wwwroot\images\blog_single.jpg" />
+    <None Include="wwwroot\images\comment_1.jpg" />
+    <None Include="wwwroot\images\comment_2.jpg" />
+    <None Include="wwwroot\images\comment_3.jpg" />
+    <None Include="wwwroot\images\counter_background.jpg" />
+    <None Include="wwwroot\images\courses_background.jpg" />
+    <None Include="wwwroot\images\course_1.jpg" />
+    <None Include="wwwroot\images\course_2.jpg" />
+    <None Include="wwwroot\images\course_3.jpg" />
+    <None Include="wwwroot\images\course_4.jpg" />
+    <None Include="wwwroot\images\course_5.jpg" />
+    <None Include="wwwroot\images\course_6.jpg" />
+    <None Include="wwwroot\images\course_7.jpg" />
+    <None Include="wwwroot\images\course_8.jpg" />
+    <None Include="wwwroot\images\course_9.jpg" />
+    <None Include="wwwroot\images\course_image.jpg" />
+    <None Include="wwwroot\images\down.png" />
+    <None Include="wwwroot\images\event_1.jpg" />
+    <None Include="wwwroot\images\event_2.jpg" />
+    <None Include="wwwroot\images\event_3.jpg" />
+    <None Include="wwwroot\images\footer_background.png" />
+    <None Include="wwwroot\images\gallery_1.jpg" />
+    <None Include="wwwroot\images\gallery_1_large.jpg" />
+    <None Include="wwwroot\images\gallery_2.jpg" />
+    <None Include="wwwroot\images\gallery_2_large.jpg" />
+    <None Include="wwwroot\images\gallery_3.jpg" />
+    <None Include="wwwroot\images\gallery_3_large.jpg" />
+    <None Include="wwwroot\images\gallery_4.jpg" />
+    <None Include="wwwroot\images\gallery_4_large.jpg" />
+    <None Include="wwwroot\images\gallery_5.jpg" />
+    <None Include="wwwroot\images\gallery_5_large.jpg" />
+    <None Include="wwwroot\images\gallery_6.jpg" />
+    <None Include="wwwroot\images\gallery_6_large.jpg" />
+    <None Include="wwwroot\images\home_slider_1.jpg" />
+    <None Include="wwwroot\images\icon_1.png" />
+    <None Include="wwwroot\images\icon_2.png" />
+    <None Include="wwwroot\images\icon_3.png" />
+    <None Include="wwwroot\images\icon_4.png" />
+    <None Include="wwwroot\images\latest_1.jpg" />
+    <None Include="wwwroot\images\latest_2.jpg" />
+    <None Include="wwwroot\images\latest_3.jpg" />
+    <None Include="wwwroot\images\marker.png" />
+    <None Include="wwwroot\images\mobile_1.png" />
+    <None Include="wwwroot\images\mobile_2.png" />
+    <None Include="wwwroot\images\mov_bbb.mp4" />
+    <None Include="wwwroot\images\mov_bbb.ogg" />
+    <None Include="wwwroot\images\newsletter.jpg" />
+    <None Include="wwwroot\images\newsletter_background.jpg" />
+    <None Include="wwwroot\images\news_1.jpg" />
+    <None Include="wwwroot\images\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\images\partner_1.png" />
+    <None Include="wwwroot\images\partner_2.png" />
+    <None Include="wwwroot\images\partner_3.png" />
+    <None Include="wwwroot\images\partner_4.png" />
+    <None Include="wwwroot\images\partner_5.png" />
+    <None Include="wwwroot\images\partner_6.png" />
+    <None Include="wwwroot\images\play.png" />
+    <None Include="wwwroot\images\play_big.png" />
+    <None Include="wwwroot\images\teacher.jpg" />
+    <None Include="wwwroot\images\team_1.jpg" />
+    <None Include="wwwroot\images\team_2.jpg" />
+    <None Include="wwwroot\images\team_3.jpg" />
+    <None Include="wwwroot\images\team_4.jpg" />
+    <None Include="wwwroot\images\team_background.jpg" />
+    <None Include="wwwroot\images\video.jpg" />
+    <None Include="wwwroot\images\video_play.png" />
+    <None Include="wwwroot\js\about.js" />
+    <None Include="wwwroot\js\blog.js" />
+    <None Include="wwwroot\js\contact.js" />
+    <None Include="wwwroot\js\courses.js" />
+    <None Include="wwwroot\js\custom.js" />
+    <None Include="wwwroot\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\plugins\colorbox\colorbox.css" />
+    <None Include="wwwroot\plugins\colorbox\images\border.png" />
+    <None Include="wwwroot\plugins\colorbox\images\controls.png" />
+    <None Include="wwwroot\plugins\colorbox\images\loading.gif" />
+    <None Include="wwwroot\plugins\colorbox\images\loading_background.png" />
+    <None Include="wwwroot\plugins\colorbox\images\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\colorbox\images\overlay.png" />
+    <None Include="wwwroot\plugins\colorbox\jquery.colorbox-min.js" />
+    <None Include="wwwroot\plugins\colorbox\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\easing\easing.js" />
+    <None Include="wwwroot\plugins\easing\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\css\font-awesome.css" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\css\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\fonts\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\animated.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\core.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\fixed-width.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\font-awesome.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\icons.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\larger.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\list.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\mixins.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\path.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\screen-reader.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\stacked.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\less\variables.less" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_animated.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_core.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_icons.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_larger.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_list.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_mixins.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_path.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_stacked.scss" />
+    <None Include="wwwroot\plugins\font-awesome-4.7.0\scss\_variables.scss" />
+    <None Include="wwwroot\plugins\greensock\animation.gsap.min.js" />
+    <None Include="wwwroot\plugins\greensock\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\greensock\ScrollToPlugin.min.js" />
+    <None Include="wwwroot\plugins\greensock\TimelineMax.min.js" />
+    <None Include="wwwroot\plugins\greensock\TweenMax.min.js" />
+    <None Include="wwwroot\plugins\masonry\masonry.js" />
+    <None Include="wwwroot\plugins\masonry\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\ajax-loader.gif" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\animate.css" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\owl.carousel.css" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\owl.carousel.js" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\owl.theme.default.css" />
+    <None Include="wwwroot\plugins\OwlCarousel2-2.2.1\owl.video.play.png" />
+    <None Include="wwwroot\plugins\parallax-js-master\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\parallax-js-master\parallax.min.js" />
+    <None Include="wwwroot\plugins\scrollmagic\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\scrollmagic\ScrollMagic.min.js" />
+    <None Include="wwwroot\plugins\video-js\OneNote Table Of Contents.onetoc2" />
+    <None Include="wwwroot\plugins\video-js\video-js.css" />
+    <None Include="wwwroot\plugins\video-js\video.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

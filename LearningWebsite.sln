@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicatLearning", "UnicatLearning\UnicatLearning.csproj", "{EBC08974-8052-4F4B-8DB3-DF407EF7C9F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC08974-8052-4F4B-8DB3-DF407EF7C9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC08974-8052-4F4B-8DB3-DF407EF7C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC08974-8052-4F4B-8DB3-DF407EF7C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC08974-8052-4F4B-8DB3-DF407EF7C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFF9A8E-DAF9-45FF-B85D-135612B6312E}
+	EndGlobalSection
+EndGlobal

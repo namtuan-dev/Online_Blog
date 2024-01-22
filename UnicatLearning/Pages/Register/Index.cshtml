@@ -1,0 +1,158 @@
+﻿@page
+@model UnicatLearning.Pages.Register.IndexModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Unicat</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Unicat project">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Sources CSS -->
+    <link href="~/css/bootstrap4/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/plugins/font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/plugins/owlcarousel2-2.2.1/owl.carousel.css" rel="stylesheet" />
+    <link href="~/plugins/owlcarousel2-2.2.1/owl.theme.default.css" rel="stylesheet" />
+    <link href="~/plugins/owlcarousel2-2.2.1/animate.css" rel="stylesheet" />
+    <link href="~/css/main_styles.css" rel="stylesheet" />
+    <link href="~/css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <!-- Header -->
+    <partial name="_Header" />
+
+    <section class="vh-100" style="background-color: #eee; margin-top:150px">
+        <div class="container h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-lg-12 col-xl-11">
+                    <div class="card text-black" style="border-radius: 25px;">
+                        <div class="card-body p-md-5">
+                            <div class="row justify-content-center">
+                                <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+
+                                    <p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">Sign up</p>
+
+                                    <form class="mx-1 mx-md-4" method="post">
+
+                                        <!-- User name -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="UserName" class="form-label" for="form3Example1c">User Name</label>
+                                                <input asp-for="UserName" type="text" id="form3Example1c" class="form-control" />
+                                                <span asp-validation-for="UserName" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Full name -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="FullName" class="form-label" for="form3Example4c">Full name</label>
+                                                <input asp-for="FullName" id="form3Example4c" class="form-control" />
+                                                <span asp-validation-for="FullName" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Email -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="Email" class="form-label" for="form3Example3c">Your Email</label>
+                                                <input asp-for="Email" type="email" id="form3Example3c" class="form-control" />
+                                                <span asp-validation-for="Email" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- DOB -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="Dob" class="form-label" for="form3Example4c">Date of Birth</label>
+                                                <input asp-for="Dob" type="date" id="form3Example4c" class="form-control" />
+                                                <span asp-validation-for="Dob" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Phone -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="Phone" class="form-label" for="form3Example4c">Phone</label>
+                                                <input asp-for="Phone" type="number" id="form3Example4c" class="form-control" />
+                                                <span asp-validation-for="Phone" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Address -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="Address" class="form-label" for="form3Example4c">Address</label>
+                                                <input asp-for="Address" id="form3Example4c" class="form-control" />
+                                                <span asp-validation-for="Address" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Password -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="Password" class="form-label" for="form3Example4c">Password</label>
+                                                <input asp-for="Password" type="password" id="form3Example4c" class="form-control" />
+                                                <span asp-validation-for="Password" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <!-- RePassword -->
+                                        <div class="d-flex flex-row align-items-center mb-4">
+                                            <div class="form-outline flex-fill mb-0">
+                                                <label asp-for="RepeatPassword" class="form-label" for="form3Example4cd">Repeat your password</label>
+                                                <input asp-for="RepeatPassword" type="password" id="form3Example4cd" class="form-control" />
+                                                <span asp-validation-for="RepeatPassword" class="text-danger"></span>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-check d-flex justify-content-center mb-5">
+                                            <label class="form-check-label" for="form2Example3">
+                                                I agree all statements in <a href="#!">Terms of service</a>
+                                            </label>
+                                        </div>
+
+                                        <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+                                            <button type="submit" class="btn btn-primary btn-lg">Register</button>
+                                        </div>
+
+                                    </form>
+
+                                </div>
+                                <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
+
+                                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-registration/draw1.webp"
+                                         class="img-fluid" alt="Sample image">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sources JS -->
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/css/bootstrap4/popper.js"></script>
+    <script src="~/css/bootstrap4/bootstrap.min.js"></script>
+    <script src="~/plugins/greensock/tweenmax.min.js"></script>
+    <script src="~/plugins/greensock/timelinemax.min.js"></script>
+    <script src="~/plugins/scrollmagic/scrollmagic.min.js"></script>
+    <script src="~/plugins/greensock/animation.gsap.min.js"></script>
+    <script src="~/plugins/greensock/scrolltoplugin.min.js"></script>
+    <script src="~/plugins/owlcarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="~/plugins/easing/easing.js"></script>
+    <script src="~/plugins/parallax-js-master/parallax.min.js"></script>
+    <script src="~/js/custom.js"></script>
+</body>
+</html>

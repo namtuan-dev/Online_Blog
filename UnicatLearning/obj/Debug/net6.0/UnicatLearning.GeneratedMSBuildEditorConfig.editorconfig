@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UnicatLearning
+build_property.RootNamespace = UnicatLearning
+build_property.ProjectDir = D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Blogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPTUniversity/FPTU Learning/Semester 7/PRN221 - Advanced Cross-Platform Application Programming With .NET/Project/LearningWebsite/UnicatLearning/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

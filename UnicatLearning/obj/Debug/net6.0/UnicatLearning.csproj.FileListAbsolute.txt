@@ -1,0 +1,273 @@
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfoInputs.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfo.cs
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CoreCompileInputs.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cs
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.Development.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.staticwebassets.runtime.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.exe
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.deps.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.runtimeconfig.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.pdb
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.UnicatLearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.build.UnicatLearning.props
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UnicatLearning.props
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UnicatLearning.props
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\scopedcss\bundle\UnicatLearning.styles.css
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\refint\UnicatLearning.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.pdb
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.genruntimeconfig.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\ref\UnicatLearning.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Json.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.AssemblyReference.cache
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CopyComplete
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Core.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Identity.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Humanizer.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.CodeDom.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Memory.Data.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.Development.json
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.json
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.staticwebassets.runtime.json
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.exe
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.deps.json
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.runtimeconfig.json
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.pdb
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Core.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Identity.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Humanizer.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.CodeDom.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Json.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.AssemblyReference.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfoInputs.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfo.cs
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CoreCompileInputs.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.MvcApplicationPartsAssemblyInfo.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cs
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.UnicatLearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.build.UnicatLearning.props
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UnicatLearning.props
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UnicatLearning.props
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\scopedcss\bundle\UnicatLearning.styles.css
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CopyComplete
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.dll
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\refint\UnicatLearning.dll
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.pdb
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.genruntimeconfig.cache
+D:\LearningWebsite\UnicatLearning\obj\Debug\net6.0\ref\UnicatLearning.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.Development.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.staticwebassets.runtime.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.exe
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\appsettings.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.deps.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.runtimeconfig.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\UnicatLearning.pdb
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Core.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Azure.Identity.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Humanizer.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.CodeDom.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Memory.Data.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Text.Json.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.AssemblyReference.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfoInputs.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.AssemblyInfo.cs
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CoreCompileInputs.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.RazorAssemblyInfo.cs
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.UnicatLearning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.build.UnicatLearning.props
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UnicatLearning.props
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UnicatLearning.props
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\scopedcss\bundle\UnicatLearning.styles.css
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.csproj.CopyComplete
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\refint\UnicatLearning.dll
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.pdb
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\UnicatLearning.genruntimeconfig.cache
+D:\FPTUniversity\FPTU Learning\Semester 7\PRN221 - Advanced Cross-Platform Application Programming With .NET\Project\LearningWebsite\UnicatLearning\obj\Debug\net6.0\ref\UnicatLearning.dll
